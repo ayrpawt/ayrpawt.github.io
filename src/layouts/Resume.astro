@@ -16,3 +16,14 @@ const { frontmatter } = Astro.props;
     </main>
   </body>
 </html>
+<style>
+  .markdown-body {
+    box-sizing: border-box;
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 45px;
+  }
+  @media (max-width: 767px) {
+    .markdown-body { padding: 15px; }
+  }
+</style>

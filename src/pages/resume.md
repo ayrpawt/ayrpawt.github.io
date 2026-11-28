@@ -4,7 +4,7 @@ title: Supawee Arayapattanakul — Resume
 ---
 # Supawee Arayapattanakul
 
-ayrpawt.me · Bangkok, Thailand
+[supawee.bus@gmail.com](mailto:supawee.bus@gmail.com) &middot; [GitHub](https://github.com/ayrpawt) &middot; Bangkok, Thailand
 
 ## Summary
 
@@ -13,11 +13,11 @@ Third-year Technology and Operations Management student at Kasetsart University 
 ## Education
 
 **Kasetsart University** — Bangkok, Thailand\
-B.B.A. in Technology and Operations Management · GPA 3.08\
+B.B.A. in Technology and Operations Management &middot; GPA 3.08\
 *Jun 2024 – Mar 2028 (Expected)*
 
 **42 Bangkok (KMITL)** — Software engineering program, part of the global 42 Network\
-Common Core · Currently at Rank 4 of 6\
+Common Core &middot; Currently at Rank 4 of 6\
 *Aug 2025 – 2027 (Expected)*
 
 ## Experience
