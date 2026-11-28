@@ -12,6 +12,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^7.4.13"
+    "astro": "^7.4.13",
+    "github-markdown-css": "^5.9.0"
   }
 }

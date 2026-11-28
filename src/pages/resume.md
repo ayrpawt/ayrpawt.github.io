@@ -1,6 +1,10 @@
+---
+layout: ../layouts/Resume.astro
+title: Supawee Arayapattanakul — Resume
+---
 # Supawee Arayapattanakul
 
-supawee.bus@gmail.com · 093-763-2384 · Bangkok, Thailand
+Bangkok, Thailand
 
 ## Summary
 
